@@ -1,4 +1,4 @@
-Layer with additional software for use with OpenEmbedded
+Layer with additional software for use with OpenEmbedded/Yocto.
 
 This layer depends on:
 

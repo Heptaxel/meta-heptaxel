@@ -1,4 +1,5 @@
-Layer with additional software for use with OpenEmbedded
+Layer with software for use with OpenEmbedded and Yocto.
+This Layer contains software to build the Internet of Things (IoT).
 
 This layer depends on:
 

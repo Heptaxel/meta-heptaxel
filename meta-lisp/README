@@ -1,4 +1,5 @@
-Layer with additional software for use with OpenEmbedded
+Layer with additional software for use with OpenEmbedded/Yocto.
+This Layer contains Common Lisp software.
 
 This layer depends on:
 
