@@ -25,3 +25,5 @@ do_install_append() {
 	install ${S}/examples/coap-client ${D}/${bindir}
 	install ${S}/examples/rd ${D}/${bindir}
 }
+
+INSANE_SKIP_${PN} = "ldflags"
